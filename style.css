@@ -37,7 +37,7 @@ input{
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family: "digital";
+    font-family: "digital", Arial, Helvetica, sans-serif;
     font-size: 25px;
     color: lightgreen;
     background-color: black;
